@@ -1,0 +1,28 @@
+{
+  "humanMachineDialogue": [
+    {
+      "author": "user",
+      "text": "What's your opinion on pineapple pizza?"
+    },
+    {
+      "author": "assistant",
+      "text": "As an AI, I don't have personal opinions."
+    },
+    {
+      "author": "user",
+      "text": "But do people generally like it?"
+    },
+    {
+      "author": "assistant",
+      "text": "Some people enjoy it, while others don't."
+    },
+    {
+      "author": "user",
+      "text": "What ingredients go well with pineapple?"
+    },
+    {
+      "author": "assistant",
+      "text": "Ham, bacon, or chicken are popular choices."
+    },
+  ]
+}
