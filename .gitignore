@@ -1,0 +1,5 @@
+/.idea/
+/postgresql_data/
+/label-studio_data/
+/docker-compose.yml
+/.env
